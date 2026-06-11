@@ -45,8 +45,8 @@ To build a regression model that can predict median house prices and understand 
 10. Final Conclusion
 
 📈 Model Performance
-- **Mean Squared Error (MSE):** *[Your MSE here]*  
-- **R² Score:** *[Your R² score here]*  
+- **Mean Squared Error (MSE):** *[0.5558915986952445*  
+- **R² Score:** *[0.5757877060324507]*  
 
 📊 Key Visualizations
 - Distribution of House Prices  
